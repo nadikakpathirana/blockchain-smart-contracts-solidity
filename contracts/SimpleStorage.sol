@@ -3,7 +3,7 @@
 // pragma solidity >=0.6.0 <0.9.0 give range of verisons
 pragma solidity 0.6.0; // give exact value
 
-contract SimpleStorge {
+contract SimpleStorage {
 
     // uint256 favouriteNumber = 5;
     // bool favouriteBool = false;
